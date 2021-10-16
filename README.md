@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Juru-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/564x/a9/19/76/a919765f9da80a849df4333436527624.jpg">
+  <img align="right" alt="Juru-pic" height="150" style="border-radius:100px;" src="https://c.tenor.com/hDgfeP6zDh0AAAAC/midoriya-deku.gif">
 </div>
   
   ##
