@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Juru-pic" height="150" style="border-radius:100px;" src="https://c.tenor.com/JoZMCEcBozQAAAAC/deku.gif">
+  <img align="right" alt="Juru-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/e1/95/f1/e195f1ce20bebb49b951b5518c02ebc5.gif">
 </div>
   
   ##
