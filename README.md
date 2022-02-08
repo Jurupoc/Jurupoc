@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou João Victor (vulgo Jurupoc)
 
-- 🔭 Hoje trabalho como QA Tests Developer;
+- 🔭 Hoje trabalho como Desenvolvedor de testes de controle de qualidade;
 - 🌱 Estudando Web (HTML, CSS, JavaScript);
 - 😄 Pronomes: Ele/Dele
 
