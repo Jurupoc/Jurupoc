@@ -16,6 +16,7 @@
   <img align="center" alt="Juru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ubuntu" height="30" width="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="right" alt="Juru-pic" height="150" style="border-radius:100px;" src="https://i.pinimg.com/originals/e1/95/f1/e195f1ce20bebb49b951b5518c02ebc5.gif">
 </div>
   
