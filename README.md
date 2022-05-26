@@ -1,8 +1,9 @@
-### Olá Mundo! Eu sou João Victor (vulgo Jurupoc)
+### Hello World! I'm João Victor
 
-- 🔭 Hoje trabalho como Desenvolvedor de testes de controle de qualidade;
-- 🌱 Estudando Web (HTML, CSS, JavaScript);
-- 😄 Pronomes: Ele/Dele
+- 💼 QA Test Developer at [CIn](https://portal.cin.ufpe.br/);
+- 📖 I'm a Information Systems Student from Brazil at [UNINASSAU](http://www.ufrpe.br/);
+- 🌱 Learning Javascript;
+
 
 <div align="center">
   <a href="https://github.com/jurupoc">
