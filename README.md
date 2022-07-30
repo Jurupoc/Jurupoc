@@ -1,7 +1,7 @@
 ### Hello World! I'm João Victor
 
 - 💼 QA Test Developer at [CIn](https://portal.cin.ufpe.br/);
-- 📖 I'm a Information Systems Student from Brazil at [UNINASSAU](http://www.ufrpe.br/);
+- 📖 I'm a Information Systems Student from Brazil at [UFRPE](http://www.ufrpe.br/);
 - 🌱 Learning Javascript;
 
 
