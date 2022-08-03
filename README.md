@@ -1,6 +1,6 @@
 ### Hello World! I'm João Victor
 
-- 💼 QA Test Developer at [CIn](https://portal.cin.ufpe.br/);
+- 💼 Backend Developer at [Encora Brasil](https://www.encora.com/);
 - 📖 I'm a Information Systems Student from Brazil at [UFRPE](http://www.ufrpe.br/);
 - 🌱 Learning Javascript;
 
