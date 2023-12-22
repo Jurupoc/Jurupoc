@@ -1,8 +1,8 @@
 ### Hello World! I'm João Victor
 
-- 💼 Backend Developer at [Encora Brasil](https://www.encora.com/);
+- 💼 System Analist at [Encora Brasil](https://www.encora.com/);
 - 📖 I'm a Information Systems Student from Brazil at [UFRPE](http://www.ufrpe.br/);
-- 🌱 Learning Django;
+- 🌱 Learning Kubernets;
 
 
 <div align="center">
